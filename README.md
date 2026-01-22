@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaito
 
-<!--
-**Weliviti/Weliviti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Enthusiast | ML & DevOps Learner | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 Studying Computer Science  
+- 💻 Interested in **Machine Learning, DevOps, Cybersecurity, and Algorithms**
+- 🛠️ Following a structured roadmap: **Operation Job Hist**
+- 🎯 Goal: Become one of the most capable professionals in the IT industry
+
+---
+
+## 🔧 Tech Stack
+**Languages**
+- Python, Java, C
+
+**ML & Data**
+- NumPy, Pandas, Scikit-learn
+
+**Web**
+- HTML, CSS, JavaScript
+
+**DevOps & Tools**
+- Git, GitHub, Linux, Docker (learning)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🧪 Projects
+- ✈️ **Project-Porco Rosso** – RC Plane with IT integration
+- ⚙️ ML Bootcamp Projects (Week 1–3)
+- 📈 Data-Driven Web Development experiments
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: (add later)
+
+---
+
+> *"Skill is the real magic. Tricks fade, mastery remains."*
