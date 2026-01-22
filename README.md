@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaito
+# 👋 Hi, I'm A.V.Sandesh Walivitigoda
 
 🚀 Computer Science Enthusiast | ML & DevOps Learner | Problem Solver
 
@@ -35,9 +35,6 @@
 ---
 
 ## 🧪 Projects
-- ✈️ **Project-Porco Rosso** – RC Plane with IT integration
-- ⚙️ ML Bootcamp Projects (Week 1–3)
-- 📈 Data-Driven Web Development experiments
 
 ---
 
